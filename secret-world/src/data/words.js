@@ -1,4 +1,4 @@
-export const wordList = {
+export const wordsList = {
     carro:["Gol","Fusca","Mercedes","Palio","HB20","Kwid","Kicks","Citroen","Ferrarri","Polo","Golf"],
     banda:["Queen","Beatles","Nirvana","Coldplay","Skank","Titãs","Ramones","ACDC","Metalica","Motorhead","Megadeath","Sepultura"],
     profissão:["Médico","Advogado","Engenheiro","Programador","Professor","Cozinheiro","Vendedor","Motorista","Enfermeiro","Policial"],
